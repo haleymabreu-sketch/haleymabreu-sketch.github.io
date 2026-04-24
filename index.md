@@ -5,18 +5,18 @@ layout: default
 
 # Welcome to my Website!
 
-Hi! My name is Haley Abreu, and I am a student at UNC Chapel Hill. 
+Welcome to Haley and Tony's data analysis website, we both attend UNC Chapel Hill! 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<seaborn.axisgrid.FacetGrid at 0xffff904a0680>"
+<img src="<seaborn.axisgrid.FacetGrid at 0xffff904a0680">
 
-## About Me
+## About Us
 
-I am interested in **economics**, **business**, and **politics**
+We are interested in **economics**, **business**, and **politics**
 
 ## COMP110 
 
-This site will contain work and projects from my *COMP 110* course. 
+This site will contain work and projects from our *COMP 110* course. 
 
 ## Summary of analysis
 
